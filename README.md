@@ -5,3 +5,4 @@ The tool allows the user to create portfolios, specifying multiple cryptocurrenc
 # Below are some additional guidelines on how to use the tool:
 - "main.py" contains the main flow of the program.
 - "crypto.json" is a sample data file where the portfolios are saved.
+- Guidelines on how to uuse the coinmarket cap API can be found here: https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide.
