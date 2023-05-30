@@ -17,9 +17,9 @@ The tool allows the user to create portfolios, specifying multiple cryptocurrenc
 
 Usage: python main.py <command> [args]
 Commands:
-  save <portfolio_id> <Crypto Symbol=Units,Crypto Symbol=Units,...> - Save/Overwrite the cryptocurrency for a portfolio
-  show <portfolio_id> <fiat_currency> - Display the approximate valuation of a portfolio
-  help - Display this usage information
+save <portfolio_id> <Crypto Symbol=Units,Crypto Symbol=Units,...> - Save/Overwrite the cryptocurrency for a portfolio
+show <portfolio_id> <fiat_currency> - Display the approximate valuation of a portfolio
+help - Display this usage information
 
 # Future Updates: 
 Feel free to reach out to me if you have any feedback for me. I have received some feedback to combine and reorganise the functions in a better way for better readability and will update the code down the track. 
