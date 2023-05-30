@@ -22,4 +22,4 @@ show <portfolio_id> <fiat_currency> - Display the approximate valuation of a por
 help - Display this usage information
 
 # Future Updates: 
-Feel free to reach out to me if you have any feedback for me. I have received some feedback to combine and reorganise the functions in a better way for better readability and will update the code down the track. 
+Feel free to reach out to me if you have any feedback. I have received some feedback to combine and reorganise the functions in a better way for better readability and will update the code down the track. 
