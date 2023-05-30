@@ -16,6 +16,7 @@ The tool allows the user to create portfolios, specifying multiple cryptocurrenc
 - To run this tool in docker desktop, you can use the docker command “docker run -it coinmarketcappython”.
 
 Usage: python main.py <command> [args]
+
 Commands:
 save <portfolio_id> <Crypto Symbol=Units,Crypto Symbol=Units,...> - Save/Overwrite the cryptocurrency for a portfolio
 show <portfolio_id> <fiat_currency> - Display the approximate valuation of a portfolio
