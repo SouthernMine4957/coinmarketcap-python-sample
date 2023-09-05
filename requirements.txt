@@ -7,7 +7,7 @@ idna==3.4
 markdown-it-py==2.2.0
 mdurl==0.1.2
 multidict==6.0.4
-Pygments==2.14.0
+Pygments==2.15.0
 pyotp==2.8.0
 PySocks==1.7.1
 requests==2.31.0
