@@ -3,7 +3,7 @@ charset-normalizer==3.0.1
 colorama==0.4.6
 defusedxml==0.7.1
 httpie==3.2.1
-idna==3.4
+idna==3.7
 markdown-it-py==2.2.0
 mdurl==0.1.2
 multidict==6.0.4
