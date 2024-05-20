@@ -5,6 +5,8 @@ def calculate_prices(symbol_same_sorting, each_unit_from_pair, quoted_prices):
         calculated_pricing.append(float(each_unit_from_pair) * quoted_prices)
 
     total_pricing = sum(calculated_pricing)
-    for symbol_same_sorting, calculated_pricing in zip(symbol_same_sorting, calculated_pricing):
+    for symbol_same_sorting, calculated_pricing in zip(
+        symbol_same_sorting, calculated_pricing
+    ):
         print(f"{symbol_same_sorting} {calculated_pricing}")
     print(total_pricing)
